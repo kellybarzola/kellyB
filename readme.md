@@ -42,6 +42,8 @@
 
  <div id="header" align="left">
 
+<br>
+
 ### :woman_technologist: Sobre mí :
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
@@ -49,6 +51,9 @@
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
 * :mailbox: ¿Quieres contactar conmigo?  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.link/8pq2ku)
+
+<br>
+<br>
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 

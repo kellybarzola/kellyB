@@ -2,6 +2,8 @@
   <img decoding="async" src="https://raw.githubusercontent.com/kellybarzola/kellyB/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.png" width="800"/>
 </div>
 
+<br>
+
 <a href="https://www.facebook.com/profile.php?id=100007601775089&mibextid=ZbWKwL">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
@@ -10,12 +12,19 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+<a href="https://www.tiktok.com/@kelly_2oo5?_t=8lrdP0InIMI&_r=1">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
 
-[![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kelly_2oo5?_t=8lrdP0InIMI&_r=1)
+<a href="https://wa.link/8pq2ku">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
+</a>
 
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.link/8pq2ku)
+<a href="[youtube](https://www.instagram.com/">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA">
+</a>
 
-[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA)]([youtube](https://www.instagram.com/))
+<br>
 
 <h1>
   Hola soy Kelly. ¡Encantada de conocerte!

@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
-<br>
 
 <a href="https://wa.link/8pq2ku">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
